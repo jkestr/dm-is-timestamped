@@ -1,6 +1,6 @@
 module DataMapper
   module Is
-    module Timestaped
+    module Timestamped
       VERSION = '0.0.1'
     end
   end

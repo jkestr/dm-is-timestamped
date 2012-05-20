@@ -1,4 +1,3 @@
-raise "foo"
 module DataMapper
   module Is
     module Timestamped

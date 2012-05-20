@@ -14,7 +14,8 @@ Gem::Specification.new do |gem|
 
   gem.name          = 'dm-is-timestamped'
   gem.require_paths = [ "lib" ]
-  gem.version       = DataMapper::Is::Timestamped::VERSION
+  #gem.version       = DataMapper::Is::Timestamped::VERSION
+  gem.version       = '0.0.1'
 
   gem.add_runtime_dependency('dm-core')
 

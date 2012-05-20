@@ -1,0 +1,2 @@
+Adds created_at and updated_at.
+Includes destroyed_at paranoid if :paranoid => true passed
